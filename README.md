@@ -6,7 +6,7 @@ Facial Key-Point Detection serves as a basis for Emotion AI applications like de
 
 input image (96X96) 
 
-<img align = "right"  src="https://github.com/ritika-singh2000/-Facial-Key-points-Detection/blob/main/keypoints.png" width = "230" height="180"> 
+<img align = "right"  src="https://github.com/ritika-singh2000/-Facial-Key-points-Detection/blob/main/keypoints.png" width = "330" height="180"> 
 <img align = "left"  src="https://github.com/ritika-singh2000/-Facial-Key-points-Detection/blob/main/image.png" width = "210" height="200"> 
 <img align = "center"  src="https://github.com/ritika-singh2000/-Facial-Key-points-Detection/blob/main/model.png" width = "300" height="200"> 
 
